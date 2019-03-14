@@ -1,0 +1,1 @@
+# alfred-git-commit-message-example
