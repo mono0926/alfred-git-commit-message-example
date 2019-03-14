@@ -1,4 +1,6 @@
-# alfred-git-commit-message-example
+# Alfred Git Commit Message Example
+
+![Example Gif](assets/example.gif)
 
 ## Install
 
