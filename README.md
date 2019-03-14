@@ -4,7 +4,7 @@
 
 ## Install
 
-Download from [Releases].
+Download from [Releases](https://github.com/mono0926/alfred-git-commit-message-example/releases).
 
 ## Git message example source
 
