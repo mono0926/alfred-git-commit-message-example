@@ -1,3 +1,54 @@
+Fix A in B
+Fix for A
+Fix A to B
+Fix A of B
+Add A to B
+Add A for B
+Remove A from B
+Remove A in B
+Remove unused A
+Use A
+To use A
+Use A instead of B
+Use A in B
+Use A for B
+Remove use of B
+Update to A
+Update A to B
+Update A for B
+Add A support
+Add support for A
+Make use of A
+Make it A
+Make it A possible
+Make sure to A
+Make sure that A
+Make A B
+Move A from B
+Move A to B
+Move A in B
+Don't use A
+Check for A
+Check A in B
+Fix A check
+Add A check
+Remove A from B
+Remove A check
+Replace A with B
+Change A to B
+Change to B
+Change A for B
+Change A in B
+Allow A to B
+Set A to B
+Set A for B
+Convert A to B
+Convert to B
+Rename A to B
+Avoid A to B
+Ensure A
+Switch from A to B
+Sorting A by B
 Add -enable-experimental-nested-generic-types frontend flag
 Add --main-process flag to run specs in the main process
 Add Throws flag and ThrowsLoc to AbstractFunctionDecl
